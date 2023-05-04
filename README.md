@@ -14,4 +14,4 @@ Este proyecto ha sido llevado a cabo por los alumnos de EMS contratados por una 
 
 ## Github Actions Badge
 
-👉[![SonarCloud](https://github.com/dbarreiro02/trabajo3-localizacion-covid/actions/workflows/main.yml/badge.svg)](https://github.com/dbarreiro02/trabajo3-localizacion-covid/actions/workflows/main.yml)
+👉[![SonarCloud](https://github.com/dbarreiro02/Lab3/actions/workflows/main.yml/badge.svg)](https://github.com/dbarreiro02/Lab3/actions/workflows/main.yml)
