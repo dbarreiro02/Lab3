@@ -9,17 +9,6 @@ public class Persona {
 
     }
 
-    public Persona(String nombre, String apellidos, String documento, String email, String direccion,
-                   FechaHora fechaNacimiento) {
-        super();
-        this.nombre = nombre;
-        this.apellidos = apellidos;
-        this.documento = documento;
-        this.email = email;
-        this.direccion = direccion;
-        this.fechaNacimiento = fechaNacimiento;
-    }
-
     public String getNombre() {
         return nombre;
     }
