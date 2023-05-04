@@ -2,7 +2,8 @@ package com.practica.genericas;
 
 
 public class Coordenada {
-    private float latitud, longitud;
+    private final float latitud;
+    private final float longitud;
 
 
     public Coordenada(float latitud, float longitud) {

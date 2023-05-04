@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 public class FechaHora implements Comparable<FechaHora> {
     public static class Fecha {
-        private int dia, mes, anio;
+        private final int dia, mes, anio;
 
         public Fecha(int dia, int mes, int anio) {
             super();
@@ -36,7 +36,7 @@ public class FechaHora implements Comparable<FechaHora> {
 
     public static class
     Hora {
-        private int hora, minuto;
+        private final int hora, minuto;
 
         public Hora(int hora, int minuto) {
             super();
